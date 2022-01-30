@@ -2,8 +2,9 @@
 
 ### Hi there 👋
 
+<div style="display: flex; justify-content: center;">
 <img src="https://github.com/moymat/moymat/blob/main/img/cover.png" alt="cover" style="width: 200px; opacity: 0.8;" />
-
+</div>
 <!--
 **moymat/moymat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
