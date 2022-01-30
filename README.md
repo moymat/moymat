@@ -57,6 +57,10 @@ My name is Michel and I am a french web developper.
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
+## :tada: Having fun with
+
+![Godot](https://img.shields.io/badge/Godot-53A4E0?style=for-the-badge&logo=godot-engine&logoColor=white)
+
 <!--
 **moymat/moymat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
