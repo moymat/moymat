@@ -77,7 +77,7 @@ _Backend Dev_
 ## :speech_balloon: Want to talk ?
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micheldeckert/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](deckertmichel@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deckertmichel@gmail.com)
 
 <!--
 **moymat/moymat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
