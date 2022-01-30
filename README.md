@@ -1,9 +1,9 @@
-<h1 style="text-align: center; font-size: 48px">Hi! :wave:</h1>
+<h1 align="center">Hi! :wave:</h1>
 
-<p style="text-align: center; font-size: 22px;">
+<h4 align="center">
   I am Michel, french web developer. <br>
   I started learning programming a little bit more than year ago and am hooked ever since.
-</p>
+</h4>
 
 ### :computer: I am working with
 
