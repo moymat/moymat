@@ -1,9 +1,8 @@
-<h1 align="center">Hi! :wave:</h1>
+<div align="center">
 
-<h4 align="center">
-  I am Michel, french web developer. <br>
-  I started learning programming a little bit more than year ago and am hooked ever since.
-</h4>
+# Hi! :wave:
+
+### I am Michel, french web developer. <br> I started learning programming a little bit more than year ago and am hooked ever since.
 
 ### :computer: I am working with
 
@@ -28,7 +27,7 @@ _Backend Dev_
 ![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![psql](https://img.shields.io/badge/PSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+ ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
@@ -43,7 +42,7 @@ _Backend Dev_
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
-![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
+ ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### :tada: Having fun with
@@ -55,6 +54,7 @@ _Backend Dev_
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micheldeckert/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deckertmichel@gmail.com)
 
+</div>
 <!--
 **moymat/moymat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
