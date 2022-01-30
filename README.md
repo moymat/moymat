@@ -1,8 +1,10 @@
-<h1 style="text-align: center;">Hello! My name is Michel and I am a web developper</h1>
+# Hi! :wave:
+
+My name is Michel and I am a french web developper.
 
 ---
 
-## I am working with
+## :computer: I am working with
 
 ### Language
 
@@ -28,7 +30,7 @@
 
 ---
 
-## I am learning
+## :books: I am currently learning
 
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![vuejs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
@@ -36,13 +38,13 @@
 
 ---
 
-## I plan to learn
+## :hourglass_flowing_sand: I plan to learn
 
 ![svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![symfony](https://img.shields.io/badge/Symfony-20232A?style=for-the-badge&logo=symfony&logoColor=white)
+![symfony](https://img.shields.io/badge/Symfony-20232A?style=for-the-badge&logo=symfony&logoColor=white)  
 ![golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![react native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -50,7 +52,7 @@
 
 ---
 
-## Working on
+## :computer: Working on
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
