@@ -1,3 +1,5 @@
+![Cover](https://github.com/moymat/moymat/blob/main/img/cover.png)
+
 ### Hi there 👋
 
 <!--
