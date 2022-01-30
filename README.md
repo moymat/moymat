@@ -1,4 +1,4 @@
-# Hello! My name is Michel and I am a web developper
+<h1 style="text-align: center;">Hello! My name is Michel and I am a web developper</h1>
 
 ---
 
