@@ -1,6 +1,9 @@
-# Hi! :wave:
+<h1 style="text-align: center; font-size: 48px">Hi! :wave:</h1>
 
-### My name is Michel and I am a french web developper.
+<p style="text-align: center; font-size: 22px;">
+  I am Michel, french web developer. <br>
+  I started learning programming a little bit more than year ago and am hooked ever since.
+</p>
 
 ### :computer: I am working with
 
