@@ -2,7 +2,7 @@
 
 # Hi! :wave:
 
-### I am Michel, french web developer. <br> I started learning programming a little bit more than year ago and am hooked ever since.
+### I am Michel, a french web developer. <br> I started learning programming a little bit more than year ago and am hooked ever since.
 
 ## :computer: Skills
 
